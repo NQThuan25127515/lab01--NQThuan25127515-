@@ -35,7 +35,7 @@ lab01-<NQThuan25127515>/
 ├── .gitignore/
 ├── pyproject.toml/
 ├── README.md/
-
+├── requirements.txt/
 
 
 
