@@ -8,7 +8,7 @@ Prerequisites: Python 3.10+, Git.
 git clone git@github.com:<NQThuan25127515>/lab01-<NQThuan25127515>.git
 cd lab01-<NQThuan25127515>
 python -m venv .venv
-.venv\Scripts\Activate.ps1
+soure .venv/bin/activate        # Windows PowerShell: .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 pip install -e .
 ```
